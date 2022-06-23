@@ -45,7 +45,7 @@ Je crois que c'est bien tout ce que j'ai à dire ici...
 </details>
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary>💻 Statistiques de Github</summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
