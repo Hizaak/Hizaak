@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <h1>Bonjour <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, <br>
 Je suis Alexandre, étudiant en informatique à l'IUT de Bayonne.</h1>
 </div>
