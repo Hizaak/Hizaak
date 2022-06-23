@@ -40,7 +40,7 @@ Je suis Alexandre, étudiant en informatique à l'IUT de Bayonne.</h1>
   <summary>🌏 Pour en savoir plus</summary>
 <br/>
 Étudiant à l'IUT de Bayonne, j'utilise Github pour versionner mes travaux, mais aussi pour découvrir l'outil.
-J'attache bien plus d'importance à la méthode qu'à la façon de programmer (non pas que j'y sois mauvais ![Image](https://camo.githubusercontent.com/58c67e62e12f88801b4fb7aecd6644d610a70bdb45f9a164bf1562da4bbdb373/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3537343632343735343636313538383939322e776562703f73697a653d3230267175616c6974793d6c6f73736c657373) ). <br/>
+J'attache bien plus d'importance à la méthode qu'à la façon de programmer (non pas que j'y sois mauvais 🙄 ). <br/>
 Je crois que c'est bien tout ce que j'ai à dire ici...
 </details>
 
