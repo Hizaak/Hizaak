@@ -7,8 +7,7 @@ Je suis Alexandre, étudiant en informatique à l'IUT de Bayonne.</h1>
   <a href="https://github.com/Hizaak">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
-  [![SVG Banners](https://svg-banners.vercel.app/api?type=rainbow&text1=Dancing%20Rainbow%20🌈&width=800&height=400)](https://github.com/Akshay090/svg-banners)
-
+  ![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=glitch🤹&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 </div>
 
 <details>
