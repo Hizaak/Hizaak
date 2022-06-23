@@ -40,7 +40,7 @@
   <summary>🌏 Pour en savoir plus</summary>
   
 Étudiant à l'IUT de Bayonne, j'utilise Github pour versionner mes travaux, mais aussi pour découvrir l'outil.
-J'attache bien plus d'importance à la méthode qu'à la façon de programmer (non pas que j'y sois mauvais <img src="[drawing.jpg](https://cdn.discordapp.com/emojis/574624754661588992.webp?size=56&quality=lossless)" alt="drawing" width="200"/>).
+J'attache bien plus d'importance à la méthode qu'à la façon de programmer (non pas que j'y sois mauvais ![Image]([drawing.jpg](https://cdn.discordapp.com/emojis/574624754661588992.webp?size=28&quality=lossless) ).
 
 Je crois que c'est bien tout ce que j'ai à dire ici...
 </details>
