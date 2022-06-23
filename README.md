@@ -50,11 +50,11 @@ Je crois que c'est bien tout ce que j'ai à dire ici...
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/Hizaak/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hizaak&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="1999AZZAR :: Top Langs" /></a>
         </p>
         <p align="center">
-          <a href="https://github.com/1999AZZAR/">
+          <a href="https://github.com/Hizaak/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Hizaak&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hizaak&theme=gruvbox&hide_border=true" />
           </a>
