@@ -19,7 +19,7 @@
       <a href="https://www.linkedin.com/in/alexandre-maurice-a62065221/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="alexandre" height="30"/></a>
-      <a href="https://mailto:amaurice006@iutbayonne.univ-pau.fr" target="blank"><img align="center"
+      <a href="https://mailto:alexandremaurice40@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="alexandre" height="30"/></a>
     </p>
@@ -38,7 +38,7 @@
 
 <details>
   <summary>🌏 Pour en savoir plus</summary>
-  
+<br/>
 Étudiant à l'IUT de Bayonne, j'utilise Github pour versionner mes travaux, mais aussi pour découvrir l'outil.
 J'attache bien plus d'importance à la méthode qu'à la façon de programmer (non pas que j'y sois mauvais ![Image](https://cdn.discordapp.com/emojis/574624754661588992.webp?size=20&quality=lossless) ). <br/>
 Je crois que c'est bien tout ce que j'ai à dire ici...
