@@ -37,9 +37,6 @@
 </details>
 
 <details>
-</details>
-
-<details>
   <summary>🌏 global</summary>
 <div>
 <h2 align="center"> Pour en savoir plus : </h2>
