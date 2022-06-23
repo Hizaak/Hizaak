@@ -40,8 +40,7 @@
   <summary>🌏 Pour en savoir plus</summary>
   
 Étudiant à l'IUT de Bayonne, j'utilise Github pour versionner mes travaux, mais aussi pour découvrir l'outil.
-J'attache bien plus d'importance à la méthode qu'à la façon de programmer (non pas que j'y sois mauvais ![Image](https://cdn.discordapp.com/emojis/574624754661588992.webp?size=28&quality=lossless) ).
-
+J'attache bien plus d'importance à la méthode qu'à la façon de programmer (non pas que j'y sois mauvais ![Image](https://cdn.discordapp.com/emojis/574624754661588992.webp?size=20&quality=lossless) ). <br/>
 Je crois que c'est bien tout ce que j'ai à dire ici...
 </details>
 
@@ -71,6 +70,6 @@ Je crois que c'est bien tout ce que j'ai à dire ici...
 </details>
 
 ------
-Pour être honnête, j'ai pris le template chez quelqu'un d'autre, c'est long les README...
-Credit: [1999azzar](https://github.com/1999azzar)
+Pour être honnête, j'ai pris le template chez quelqu'un d'autre, c'est long les README...  <br/>
+Credit: [1999azzar](https://github.com/1999azzar)  <br/>
 Last Edited on: 23/06/2022
