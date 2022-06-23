@@ -40,7 +40,7 @@ Je suis Alexandre, étudiant en informatique à l'IUT de Bayonne.</h1>
   <summary>🌏 Pour en savoir plus</summary>
 <br/>
 Étudiant à l'IUT de Bayonne, j'utilise Github pour versionner mes travaux, mais aussi pour découvrir l'outil.
-J'attache bien plus d'importance à la méthode qu'à la façon de programmer (non pas que j'y sois mauvais ![Image](https://cdn.discordapp.com/emojis/574624754661588992.webp?size=28&quality=lossless) ). <br/>
+J'attache bien plus d'importance à la méthode qu'à la façon de programmer (non pas que j'y sois mauvais ![Image](https://cdn.discordapp.com/emojis/574624754661588992.webp?size=20) ). <br/>
 Je crois que c'est bien tout ce que j'ai à dire ici...
 </details>
 
