@@ -37,10 +37,7 @@
 </details>
 
 <details>
-  <summary>🌏 global</summary>
-<div>
-<h2 align="center"> Pour en savoir plus : </h2>
-</div>
+  <summary>🌏 Pour en savoir plus</summary>
 Étudiant à l'IUT de Bayonne, j'utilise Github pour versionner mes travaux, mais aussi pour découvrir l'outil.
 J'attache bien plus d'importance à la méthode qu'à la façon de programmer (non pas que j'y sois mauvais ![image](https://user-images.githubusercontent.com/91621456/175406828-ea079296-353d-4ce4-b548-de738b2f733d.png) ).
 Je crois que c'est bien tout ce que j'ai à dire ici...
