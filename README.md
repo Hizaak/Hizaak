@@ -1,6 +1,5 @@
 <div align="center">
-<h1 align="center">Bonjour <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, je suis Alexandre,</h1>
-<h4 align="center">étudiant en informatique à l'IUT de Bayonne.</h4>
+<h1 align="center">Bonjour <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, je suis Alexandre, étudiant en informatique à l'IUT de Bayonne.</h1>
 </div>
 
 <div align="center">
