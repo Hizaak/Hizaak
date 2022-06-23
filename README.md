@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Bonjour <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, je suis Alexandre,</h1>
-<h4 align="center">un étudiant en informatique à l'IUT de Bayonne</h4>
+<h4 align="center">étudiant en informatique à l'IUT de Bayonne</h4>
 </div>
 
 <div align="center">
@@ -97,4 +97,4 @@ Je crois que c'est bien tout ce que j'ai à dire ici...
 ------
 Pour être honnête, j'ai pris le template chez quelqu'un d'autre, c'est long les README...
 Credit: [1999azzar](https://github.com/1999azzar)
-Last Edited on: 01/06/2022
+Last Edited on: 23/06/2022
