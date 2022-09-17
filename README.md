@@ -17,7 +17,7 @@ Je suis Alexandre, étudiant en informatique à l'IUT de Bayonne.</h1>
     <h2 align="center">😎 Vous pouvez me contacter via :</h2>
     <p align="center">
       <br/>
-      <a href="https://www.linkedin.com/in/alexandre-maurice-a62065221/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/amaurice40/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="alexandre" height="30"/></a>
       <a href="https://mailto:alexandremaurice40@gmail.com" target="blank"><img align="center"
@@ -73,4 +73,4 @@ Je crois que c'est bien tout ce que j'ai à dire ici...
 ------
 Pour être honnête, j'ai pris le template chez quelqu'un d'autre, c'est long les README...  <br/>
 Credit: [1999azzar](https://github.com/1999azzar)  <br/>
-Last Edited on: 23/06/2022
+Last Edited on: 18/09/2022
