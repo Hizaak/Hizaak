@@ -73,4 +73,4 @@ Je crois que c'est bien tout ce que j'ai à dire ici...
 ------
 Pour être honnête, j'ai pris le template chez quelqu'un d'autre, c'est long les README...  <br/>
 Credit: [1999azzar](https://github.com/1999azzar)  <br/>
-Last Edited on: 18/09/2022
+Dernière modification le 18/09/2022
