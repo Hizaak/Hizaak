@@ -72,7 +72,7 @@ Je crois que c'est bien tout ce que j'ai à dire ici...
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+  <img src="https://profile-counter.glitch.me/Hizaak/count.svg" />
 </p>
 
 ------
