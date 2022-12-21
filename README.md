@@ -67,7 +67,7 @@ Je crois que c'est bien tout ce que j'ai à dire ici...
 <details>
   <summary>📈 Graphique d'activité</summary>
   <br/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hizaak&theme=react" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Hizaak&theme=react&hide_title=true&hide_border=true" />
 </details>
 
 <p align="center"> 
