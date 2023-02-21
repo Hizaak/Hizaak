@@ -20,7 +20,7 @@ Je suis Alexandre, étudiant en informatique à l'IUT de Bayonne.</h1>
       <a href="https://www.linkedin.com/in/amaurice40/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="alexandre" height="30"/></a>
-      <a href="https://mailto:alexandremaurice40@gmail.com" target="blank"><img align="center"
+      <a href="https://mailto:contact@alexandremaurice.fr" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="alexandre" height="30"/></a>
     </p>
