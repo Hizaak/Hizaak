@@ -37,8 +37,7 @@ Je suis Alexandre, étudiant en informatique à l'IUT de Bayonne.</h1>
 <details>
   <summary>🌏 Pour en savoir plus</summary>
 <br/>
-Étudiant à l'IUT de Bayonne, j'utilise Github pour versionner mes travaux, mais aussi pour découvrir l'outil.
-J'attache bien plus d'importance à la méthode qu'à la façon de programmer (non pas que j'y sois mauvais 🙄 ). <br/>
+Étudiant à l'IUT de Bayonne, j'utilise Github pour versionner mes travaux, mais aussi pour découvrir l'outil. <br/>
 Je crois que c'est bien tout ce que j'ai à dire ici...
 </details>
 
@@ -71,8 +70,3 @@ Je crois que c'est bien tout ce que j'ai à dire ici...
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Hizaak/count.svg" />
 </p>
-
-------
-Pour être honnête, j'ai pris le template chez quelqu'un d'autre, c'est long les README...  <br/>
-Credit: [1999azzar](https://github.com/1999azzar)  <br/>
-Dernière modification le 18/09/2022
