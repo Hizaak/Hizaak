@@ -28,9 +28,6 @@ Je suis Alexandre, étudiant en informatique à l'IUT de Bayonne.</h1>
       <a href="https://www.instagram.com/hizaaknewton/" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="alexandre" height="30"/></a>
-      <a href="https://twitter.com/hizaaknewton" target="blank"><img align="center"
-         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
-         alt="alexandre" height="30"/></a>
       <br>
     </p>
   </samp>
