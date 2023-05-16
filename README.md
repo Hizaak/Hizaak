@@ -37,8 +37,8 @@ Je suis Alexandre, étudiant en informatique à l'IUT de Bayonne.</h1>
 <details>
   <summary>🌏 Pour en savoir plus</summary>
 <br/>
-  Passionné par la photographie et l'intégralité de ses nobles aspects, je m'investis depuis plusieurs années dans l'apprentissage de cette discipline, tant au niveau technique qu'artistique. \
-  Informaticien à mes heures perdues, j'apprécie particulièrement l'aspect méthodique et la résolution stratégique des problèmes informatiques. \
+  Passionné par la photographie et l'intégralité de ses nobles aspects, je m'investis depuis plusieurs années dans l'apprentissage de cette discipline, tant au niveau technique qu'artistique. <br>
+  Informaticien à mes heures perdues, j'apprécie particulièrement l'aspect méthodique et la résolution stratégique des problèmes informatiques. <br>
   Je crois bien que c'est tout ce que j'ai à dire ici... <a href="https://fr.wikipedia.org/wiki/Principe_KISS">KISS</a>.
 </details>
 
