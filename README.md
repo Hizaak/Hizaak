@@ -37,8 +37,9 @@ Je suis Alexandre, étudiant en informatique à l'IUT de Bayonne.</h1>
 <details>
   <summary>🌏 Pour en savoir plus</summary>
 <br/>
-Étudiant à l'IUT de Bayonne, j'utilise Github pour versionner mes travaux, mais aussi pour découvrir l'outil. <br/>
-Je crois que c'est bien tout ce que j'ai à dire ici...
+  Passionné par la photographie et l'intégralité de ses nobles aspects, je m'investis depuis plusieurs années dans l'apprentissage de cette discipline, tant au niveau technique qu'artistique. \
+  Informaticien à mes heures perdues, j'apprécie particulièrement l'aspect méthodique et la résolution stratégique des problèmes informatiques. \
+  Je crois bien que c'est tout ce que j'ai à dire ici... <a href="https://fr.wikipedia.org/wiki/Principe_KISS">KISS</a>.
 </details>
 
 <details> 
