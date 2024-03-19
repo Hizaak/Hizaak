@@ -3,9 +3,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/alexandremaurice_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexandremaurice_" height="30" width="40" /></a>
-<a href="https://github.com/hizaak" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hizaak" height="30" width="40" /></a>
-<a href="mailto:alexandre.maurice40@gmail.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" alt="hizaak" height="30" width="40" /></a>
+<a href="https://instagram.com/alexandremaurice_"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexandremaurice_" height="30" width="40" /></a>
+<a href="https://github.com/hizaak"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="hizaak" height="30" width="40" /></a>
+<a href="mailto:alexandre.maurice40@gmail.com"><img align="center" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/envelope.svg" alt="hizaak" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
