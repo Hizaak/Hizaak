@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Alexandre</h1>
-<h3 align="center">Student in Bachelor of Technology in Computer Science at the IUT of Bayonne and the Basque Country</h3>
+<h1>Hi 👋, I'm Alexandre</h1>
+<h3>Student in Bachelor of Technology in Computer Science at the IUT of Bayonne and the Basque Country</h3>
+
+Passionate about the inner workings of Computer Science at its most fundamental levels, I delve into the intricate realms of algorithmics, logic, and beyond. My curiosity thrives on understanding the foundational concepts that power the digital world, from unraveling complex algorithms to deciphering the elegant logic behind them.
+Beyond the realm of code, I also find solace and creativity through the lens of a camera. Photography is not just a hobby, but a means to capture the beauty and essence of the world around me.
+Feel free to explore my photographic journey on (Instagram)[https://instagram.com/alexandremaurice"]. Don't hesitate to reach out and connect!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
